@@ -79,6 +79,14 @@ Funcional 100%
 
 ¡Nos vemos en el siguiente proyecto!
 
+## Resumen gráfico del proceso de desarrollo desde el día 1 al día 3
+Primer día, todo eran muros infranqueables, arenas movedizas y tropiezos. Hasta que dejas de ver a la piedra como una más que te encontrarás con ella y la saludas mientras intentas esquivarla.
+![31e8b0cd-f2ea-48d4-90a3-c8b710fb63e3](https://github.com/user-attachments/assets/3c94865c-63ba-4fe6-8d5d-58e1bbc02f2a)
+
+He dejado bastantes ideas por el camino, que seguro que volveré a andar para añadirlas, y también mejorar partes del código que sé que podría haber hecho de otra manera, no sé si mejor, porque a mí por mi experiencia aunque ajena al mundo de la programación el resultado final me ha dejado contento. Creando un armazón robusto sobre el que he ido añadiendo más capas sin que rompieran lo anterior y cuando algo rompía poder volver atrás y saber cuando desechar una idea para que el conjunto no se resienta por invertir demasiado en otras partes.
+![ChatGPT Image 1 may 2025, 02_13_51](https://github.com/user-attachments/assets/1ea5d5e5-6b5a-4f7f-9009-a9fff7531780)
+
+
 
 ## Contacto
 Puedes contactarme por GitHub si se te ocurre alguna otra característica que te gustaría añadir al juego.
