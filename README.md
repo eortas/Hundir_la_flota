@@ -19,6 +19,9 @@ Este proyecto fue iniciado como un reto personal como mi primera aproximación a
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/da3fd16d-cb33-4450-86fa-61db30011fdc)
 
+![image](https://github.com/user-attachments/assets/cb28a1fd-deda-4914-83ad-4ed37379f733)
+
+
 ## Setup
 Guarda todos los archivos en la misma carpeta. Probado con Python 3.11.x . Para ejecutarlo, desde la carpeta donde guardaste los archivos ejecuta:
 ```console
