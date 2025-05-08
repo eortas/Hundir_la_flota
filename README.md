@@ -71,8 +71,15 @@ Un barco vertical de eslora 2 hundido quedaría representado así:
 ## Estado
 Funcional 100%
 
+# ¿Qué he aprendido con este proyecto?
+
+* Lo primero y más importante: Persigue la simplicidad sobre la complejidad.
+* Lo segundo: El trabajo duro excesivo es algo que la sociedad valora mucho. Largas jornadas delante del ordenador, gran esfuerzo para aprender primero una gran cantidad de información en poco tiempo, la frustración que puede venir a llamar a tu puerta cuando no alcanzas a comprender como plasmar esa nueva información en código práctico e incluso sufrimiento parecen ser medios para alcanzar la gloria en muchos escenarios. He intentado hacer siempre hasta donde he podido y un paso más. Hasta que he visto dónde no era seguro seguir caminando, no abandonando el proyecto sino con un cartel de nos volveremos a ver en el futuro, amigo.
+* Efectividad justo después de simplicidad. Si puede que el código no sea el más optimizado pero funciona, y a partir de ahí se puede ir avanzando. De una función puedes reutilizarla para otras, otra vez lo mismo pero si la primera la has realizado bien, has comprobado que funciona a la perfección, ¿por qué no ibas a aprovecharlo?
+
+¡Nos vemos en el siguiente proyecto!
+
 
 ## Contacto
 Puedes contactarme por GitHub si se te ocurre alguna otra característica que te gustaría añadir al juego.
-
-# Será un placer para mí implementarla para ti! 
+Será un placer para mí implementarla para ti! 
