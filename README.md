@@ -33,7 +33,7 @@ Guarda todos los archivos en la misma carpeta. Probado con Python 3.11.x . Para 
 * Crear la dinámica de turnos y funcionalidades necesarios para jugar contra la máquina que disparará a nuestro tablero de forma aleatoria.
 * Informar de cuando un barco ha sido tocado, cambiando su representación en el tablero por una X, hacer lo mismo para cuando le das al agua sustituyendo por •.
 * Terminar el juego cuando uno de los dos jugadores no tenga más barcos en pie.
-* Can play 1 or 2 players
+
 
 ## Mejoras añadidas
  * Se representan los tableros del jugador y del rival en la misma linea para mejorar la legibilidad.
@@ -62,6 +62,8 @@ Un barco vertical de eslora 2 hundido quedaría representado así:
     ↓
     ↑
 ```
+* Sistema de disparo del rival mejorado, cuando acierte a un barco que sus siguientes disparos sean en el eje x o y hasta que acierte.
+* Sistema de disparo del rival aún más optimizado, barrer el tablero en diagonales dejando un espacio entre ellas porque al ser la longitud mínima de los barcos 2 así se reduciría mucho la cantidad de turnos necesarios para terminar la partida.
 
 ## Status
 Funcional 100%
