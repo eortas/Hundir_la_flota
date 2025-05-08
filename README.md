@@ -11,7 +11,7 @@ Un juego simple funcionando en terminal basado en Hundir la flota, realizado con
 * [Setup](#setup)
 * [Programa mínimo](#features)
 * [Estado](#status)
-* [Contact](#contact)
+* [Contacto](#contact)
 
 ## Información general
 Este proyecto fue iniciado como un reto personal como mi primera aproximación a Python y con un tiempo para que fuera funcional de apenas 3 días a modo de desafío.
@@ -68,7 +68,7 @@ Un barco vertical de eslora 2 hundido quedaría representado así:
 * Sistema de disparo del rival mejorado, cuando acierte a un barco que sus siguientes disparos sean en el eje x o y hasta que acierte.
 * Sistema de disparo del rival aún más optimizado, barrer el tablero en diagonales dejando un espacio entre ellas porque al ser la longitud mínima de los barcos 2 así se reduciría mucho la cantidad de turnos necesarios para terminar la partida.
 
-## Status
+## Estado
 Funcional 100%
 
 
