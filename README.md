@@ -11,7 +11,6 @@ Un juego simple funcionando en terminal basado en Hundir la flota, realizado con
 * [Setup](#setup)
 * [Programa mínimo](#features)
 * [Estado](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## Información general
@@ -64,12 +63,9 @@ Un barco vertical de eslora 2 hundido quedaría representado así:
     ↑
 ```
 
-
 ## Status
 Funcional 100%
 
-## Inspiration
-Based on the classic game Battleship
 
 ## Contacto
 Puedes contactarme por GitHub si se te ocurre alguna otra característica que te gustaría añadir al juego.
