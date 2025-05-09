@@ -30,8 +30,7 @@ Guarda todos los archivos en la misma carpeta. Probado con Python 3.11.x . Para 
 
 ## Programa mínimo 
 * Crear un tablero de 10x10 relleno del carácter "_" con numpy.
-* Crear una serie de barcos generados de forma aleatoria (6 barcos en total (3 barcos de eslora 2, 2 de eslora 3 y 1 eslora 4)) 
-  dos barcos la misma casilla) o barcos que se salgan del tablero!
+* Crear una serie de barcos generados de forma aleatoria (6 barcos en total (3 barcos de eslora 2, 2 de eslora 3 y 1 eslora 4)
 * ¡Mucho ojo con barcos que estén superpuestos (no pueden ocupar la misma casilla)
 * Crear la dinámica de turnos y funcionalidades necesarios para jugar contra la máquina que disparará a nuestro tablero de forma aleatoria.
 * Informar de cuando un barco ha sido tocado, cambiando su representación en el tablero por una X, hacer lo mismo para cuando le das al agua sustituyendo por •.
