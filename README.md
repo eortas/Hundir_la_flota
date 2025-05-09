@@ -80,10 +80,10 @@ Funcional 100%
 ¡Nos vemos en el siguiente proyecto!
 
 ## Resumen gráfico del proceso de desarrollo desde el día 1 al día 3
-Primer día, todo eran muros infranqueables, arenas movedizas y tropiezos. Hasta que dejas de ver a la piedra como una amiga más, te volverás a encontrar con ella y la saludarás mientras intentas esquivarla.
+Primer día, todo eran muros infranqueables, arenas movedizas y pozos oscuros. Y es así hasta que dejas de verlos con mied y pasas a ver a aquella piedra con la que tropezaste como una amiga más porque te volverás a encontrar con ella y la saludarás mientras intentas esquivarla.
 ![31e8b0cd-f2ea-48d4-90a3-c8b710fb63e3](https://github.com/user-attachments/assets/3c94865c-63ba-4fe6-8d5d-58e1bbc02f2a)
 
-He dejado bastantes ideas por el camino, que seguro que volveré a andar por él para añadirlas, y también mejorar partes del código que sé que podría haber hecho de otra manera, no sé si mejor, porque a mí por mi experiencia aunque ajena al mundo de la programación el resultado final me ha dejado satisfecho. He creado un armazón, creo que robusto, sobre el que he ido añadiendo más capas sin que rompieran lo anterior y cuando algo rompía saber volver atrás para desechar una idea para que el conjunto no se resientiera por invertir demasiado esfuerzo y tiempo.
+He dejado bastantes ideas por el camino, que seguro que volveré a recorrerlo para añadirlas, y también mejorar partes del código que sé que podría haber hecho de otra manera, no sé si mejor, porque a mí por mi experiencia aunque ajena al mundo de la programación el resultado final me ha dejado satisfecho. He creado un armazón, creo que robusto, sobre el que he ido añadiendo más capas sin que rompieran lo anterior y cuando algo rompía saber volver atrás para desechar una idea para que el conjunto no se resientiera por invertir demasiado esfuerzo y tiempo.
 ![ChatGPT Image 1 may 2025, 02_13_51](https://github.com/user-attachments/assets/1ea5d5e5-6b5a-4f7f-9009-a9fff7531780)
 
 
